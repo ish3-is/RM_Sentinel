@@ -127,7 +127,7 @@ Built with **Streamlit** and includes:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/RM_Sentinel.git
+git clone https://github.com/ish3-is/RM_Sentinel.git
 
 cd RM_Sentinel
 ```
@@ -216,13 +216,22 @@ RM_Sentinel/
 
 # 📸 Screenshots
 
-> Add screenshots of:
-
 * SOC Dashboard
+
+<img width="1280" height="1355" alt="لقطة شاشة 2026-06-29 085625" src="https://github.com/user-attachments/assets/bd4bbd2b-9ed4-427d-a98a-a9a81c2ab0c8" />
+
 * Live Alerts
+  <img width="1280" height="1392" alt="لقطة شاشة 2026-06-29 071358" src="https://github.com/user-attachments/assets/07cec422-3683-4725-8f2b-e7aa235a2df2" />
+  
 * Threat Map
-* Telegram Notifications
-* Risk Charts
+<img width="1280" height="1357" alt="لقطة شاشة 2026-06-29 090210" src="https://github.com/user-attachments/assets/c33fd519-30d0-43ea-806c-90eadf12fccd" />
+
+*  Telegram Notifications
+<img width="577" height="1271" alt="لقطة شاشة 2026-06-29 124735" src="https://github.com/user-attachments/assets/5dd51738-0c02-41bb-a1d1-cad180044514" />
+
+*  Risk Charts
+  <img width="770" height="360" alt="لقطة شاشة 2026-06-29 125014" src="https://github.com/user-attachments/assets/fbd94ad2-431a-4116-930e-6d6ce10b500e" />
+
 
 ---
 
@@ -231,4 +240,3 @@ RM_Sentinel/
 This project was developed for educational purposes and advanced cybersecurity demonstrations.
 
 © 2026 RM_Sentinel. All Rights Reserved.
-<img width="1536" height="1024" alt="ChatGPT Image 29 يونيو 2026، 09_38_54 ص" src="https://github.com/user-attachments/assets/d560ad6c-1302-49fa-a294-a37a8a6b5c27" />

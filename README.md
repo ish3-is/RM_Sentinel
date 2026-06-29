@@ -221,7 +221,8 @@ RM_Sentinel/
 <img width="1280" height="1355" alt="لقطة شاشة 2026-06-29 085625" src="https://github.com/user-attachments/assets/bd4bbd2b-9ed4-427d-a98a-a9a81c2ab0c8" />
 
 * Live Alerts
-  <img width="1280" height="1392" alt="لقطة شاشة 2026-06-29 071358" src="https://github.com/user-attachments/assets/07cec422-3683-4725-8f2b-e7aa235a2df2" />
+  <img width="1280" height="1361" alt="لقطة شاشة 2026-06-29 071358" src="https://github.com/user-attachments/assets/648d36b9-401c-45f6-bef5-2e2bbafa92ad" />
+
   
 * Threat Map
 <img width="1280" height="1357" alt="لقطة شاشة 2026-06-29 090210" src="https://github.com/user-attachments/assets/c33fd519-30d0-43ea-806c-90eadf12fccd" />

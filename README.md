@@ -15,40 +15,6 @@ The system continuously monitors endpoints, detects suspicious activities, calcu
 ## 🏗️ System Architecture
 <img width="1536" height="1024" alt="ChatGPT Image 29 يونيو 2026، 09_38_54 ص" src="https://github.com/user-attachments/assets/8b915743-e1cf-484e-9e0b-387c6d1738fc" />
 
-
-```
-             ┌────────────────────────────┐
-             │      Endpoint Agent        │
-             │----------------------------│
-             │ • CPU/RAM Monitoring       │
-             │ • File Integrity Monitor   │
-             │ • Brute Force Detection    │
-             │ • Log Collection           │
-             └─────────────┬──────────────┘
-                           │
-                      HTTP / JSON
-                       (Ngrok Tunnel)
-                           │
-                           ▼
-             ┌────────────────────────────┐
-             │      FastAPI Server        │
-             │----------------------------│
-             │ • Receive Events           │
-             │ • Risk Scoring Engine      │
-             │ • Store in PostgreSQL      │
-             │ • Telegram Notifications   │
-             └─────────────┬──────────────┘
-                           │
-              ┌────────────┴────────────┐
-              ▼                         ▼
-      PostgreSQL Database       Streamlit SOC Dashboard
-                                    │
-                                    ├── Live Events
-                                    ├── Risk Analytics
-                                    ├── Interactive Maps
-                                    └── Threat Statistics
-```
-
 ---
 
 # ✨ Features
